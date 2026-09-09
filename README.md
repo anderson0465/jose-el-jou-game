@@ -1,0 +1,1 @@
+JOSE EL JOU - Quisqueya Edition. Mantener assets/escenario.png junto a index.html al publicar en GitHub Pages.
